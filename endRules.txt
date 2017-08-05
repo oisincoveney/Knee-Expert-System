@@ -1,0 +1,522 @@
+MCLGrade1
+
+Symptoms
+onset                  "acute"
+location               "medial"
+mechanism              "plant and twist" or "valgus force"
+activeRangeOfMotion    "full"
+painMagnitude          "mild"
+tenderness             "yes"
+swelling               "none"
+
+Diagnosis
+"Grade 1 MCL Sprain"
+"MCL has not torn completely,
+but some of the ligament fibers have been disrupted and must be repaired."
+
+Treatment
+"mild, no major surgery or rehabilitation is needed. However, the PRICE ice and 
+compression method, along with the listed strength rehabilitation and cardio 
+exercises, will help prevent injuries and allow you to stay fit while your knee is 
+healing.
+
+After this treatment, you can return to bearing weight on the affected knee. However, 
+you should not return to the activity that caused you the injury until you have a 
+painless, normal range of motion and you feel that 90% of your normal strength is 
+recovered."
+
+"PRICE"
+"Strength"
+"Cardio"
+
+*
+
+MCLGrade2
+
+Symptoms
+onset                  "acute"
+location               "medial"
+mechanism              "plant and twist" or "valgus force"
+activeRangeOfMotion    "little" or "none"
+passiveRangeOfMotion   "none"
+painMagnitude          "moderate" or "severe"
+tenderness             "yes"
+swelling               "mild"
+instability            "yes"
+
+Diagnosis
+"Grade 2 MCL Sprain"
+"MCL has experienced a major rupture, 
+but has not torn completely and can be easily repaired through 
+many of the same treatments as a Grade 1 MCL injury."
+
+Treatment
+"moderately severe, braces and crutches, along with extensive rehabilitation in the
+knee,should be used to encourage stability in the knee joint and prevent further
+sprains. Some guidelines to this treatment include:
+
+   1: If you walk with a limp, use crutches until you can bear weight on your 
+      affected knee.
+   2: A brace should be used in all activities to prevent further injuries, even when  
+      not using crutches.
+   3: Avoidance of exercises that involve rotational movements such as soccer and 
+      football. Instead, use cardio exercises that are mentioned later on.
+
+Ideally, this type of sprain will heal within four to six weeks. Maintaining this
+treatment on a daily basis will shorten recovery time, but only return to activity
+after you feel that 90% of your normal strength is recovered, and you have a
+painless, normal range of motion."
+
+"PRICE"
+"Strength"
+"Cardio"
+
+
+*
+
+MCLGrade3
+
+Symptoms
+onset                "acute"
+location             "medial"
+mechanism            "plant and twist" or "valgus force"
+activeRangeOfMotion  "none"
+passiveRangeOfMotion "none"
+painMagnitude        "severe"
+longTermPain         "dull"
+tenderness           "yes"
+swelling             "moderate"
+kneeBend             "lateral"
+instability          "yes"
+
+Diagnosis
+"Grade 3 MCL Sprain"
+"MCL has completely ruptured, and the ligament fibers have completely torn."
+
+Treatment
+"very severe, a visit to a physician is highly, highly recommended. Do NOT put
+pressure on your knee or attempt to walk, since this action will put more stress on
+the other ligaments and bones in the area.
+
+Because of the severity of this injury, please see a physician immediately for an
+accurate diagnosis. For a ligament tear, reconstructive surgery may be needed.
+
+With proper treatment and constant, extensive rehabilitation, expected recovery time
+is within two to four months. After recovery, a knee brace should be used to
+stabilize the knee and help prevent further injuries."
+
+*
+
+
+LCLGrades1and2
+
+Symptoms
+onset                  "acute"
+location               "lateral"
+mechanism              "plant and twist" or "varus force"
+activeRangeOfMotion    "none"
+painMagnitude          "severe"
+longTermPain           "moderate" or "severe"
+swelling               "mild" or "moderate"
+kneeBend               "inside"
+instability            "yes"
+
+Diagnosis
+"Grade 1 or 2 LCL sprain"
+"the ligament fibers in your LCL have been disrupted, but have not completely torn."
+
+Treatment
+"mild or moderate, no extensive surgery will be needed. You should see a physician to
+assess how much of your LCL is torn, but the treatment for both grades of sprains
+similar, only differing in recovery time. You should also ask your physician for an
+X-ray, in case any loose bodies such as bone fragments are floating around the area.
+
+
+Some guidelines to treating an LCL injury:
+   1: If you walk with a limp, use crutches until you can bear weight on your 
+      affected knee.
+   2: A brace should be used in all activities to prevent further injuries, even when 
+      not using crutches.
+   3: Avoidance of exercises that involve rotational movements such as soccer and 
+      football. Instead, use cardio and strength exercises that are mentioned later
+      on.
+   
+Depending on the severity of the injury, you may be able to return to bearing weight
+on the affected knee after treatment. However, you should not return to the activity
+that caused you the injury until you have a painless, normal range of motion and you
+feel that 90% of your normal strength is recovered."
+
+"PRICE"
+"Strength"
+"Cardio"
+
+
+*
+
+LCLGrade3
+
+Symptoms
+onset                  "acute"
+location               "lateral"
+mechanism              "plant and twist" or "varus force"
+activeRangeOfMotion    "none"
+painMagnitude          "severe"
+longTermPain           "dull"
+swelling               "mild" or "moderate"
+kneeBend               "medial"
+instability            "yes"
+
+Diagnosis
+"Grade 3 LCL sprain"
+"the ligament fibers in your LCL have been disrupted, but have not completely torn."
+
+Treatment
+"very severe, a visit to a physician is highly, highly recommended. Do NOT put
+pressure on your knee or attempt to walk, since this action will put more stress on
+the other ligaments and bones in the area.
+
+Because of the severity of this injury, please see a physician immediately for an
+accurate diagnosis. For a ligament tear, reconstructive surgery may be needed.
+
+With proper treatment and constant, extensive rehabilitation, expected recovery time
+is within two to four months. After recovery, a knee brace should be used to
+stabilize the knee and help prevent further injuries."
+
+*
+
+PCLGrades1and2
+
+Symptoms
+onset                  "acute"
+location               "posterior"
+mechanism              "hyperflexion" or "plant and twist"
+heard                  "pop"
+tenderness             "yes"
+swelling               "mild"
+instability            "no"
+
+Diagnosis
+"Grade 1 or 2 PCL sprain"
+"the ligament fibers in your PCL have been disrupted, but have not completely torn."
+
+Treatment
+"mild or moderate, no extensive surgery will be needed. You should see a physician to
+assess how much of your PCL is torn, but the treatment for both grades of sprains 
+similar, only differing in recovery time. However, only ice and strength 
+rehabilitation exercises are necessary for quick recovery, which can range from one 
+to three weeks. Use PRICE and strength exercises to aid you in your recovery."
+
+"PRICE"
+"Strength"
+
+*
+
+PCLGrade3
+
+Symptoms
+onset                  "acute"
+location               "posterior"
+mechanism              "hyperflexion" or "plant and twist"
+heard                  "pop"
+tenderness             "yes"
+swelling               "moderate"
+instability            "yes"
+
+Diagnosis
+"Grade 3 PCL Sprain"
+"the ligament fibers in your PCL have been completely torn."
+
+Treatment
+"severe, extensive rehabilitation and treatment are needed for a full recovery. 
+However, there is some controversy over the treatment of Grade 3 tears. One accepted 
+method involves immobilization with crutches for six weeks, followed by range of 
+motion exercises, then strength exercises by four months.
+
+Theoretically, an athlete can still play with a torn PCL, but there is too much of a 
+risk, because there is no ligament preventing the knee from bending towards the 
+front, against the knee cap. Obviously, this hyperextension would cause massive 
+problems.
+
+See a physician for more accurate information on how to proceed."
+
+*
+
+ACL
+
+Symptoms
+onset                 "acute"
+location              "anterior"
+mechanism             "plant and twist" or "deceleration"
+activeRangeOfMotion   "full"
+painMagnitude         "severe"
+longTermPain          "dull"
+tenderness            "yes"
+swelling              "moderate"
+instability           "yes"
+walk                  "yes"
+heard                 "pop"
+
+Diagnosis
+"ACL Tear"
+"ACL has torn, but you will need to see a physician for an accurate diagnosis."
+
+Treatment
+"very severe, a visit to a physician is highly, highly recommended.
+While you may still be able to walk, take as much pressure off your knee as possible 
+to prevent other injuries.
+
+Because the method to treat an ACL injury is disputed, please see a licensed 
+physician to treat the injury. Treatment can include:
+                
+1: Surgery to reconstruct the knee joint to replace support from tearing your ACL
+2: Wearing a brace for 3 to 5 weeks to stabilize the knee
+3: 4 to 6 months of rehabilitation with a physical trainer to strengthen muscles 
+around the knee
+
+You may have to use a knee brace after rehabilitation, but please consult a physician 
+to more accurately treat your injury."
+
+*
+
+PatellarSubluxation
+
+Symptoms
+onset                "acute"
+location             "anterior"
+mechanism            "deceleration" and "plant and twist"
+activeRangeOfMotion  "little" or "full"
+passiveRangeOfMotion "little" or "full"
+painMagnitude        "severe"
+swelling             "moderate" or "severe"
+instability          "no"
+walk                 "yes"
+visibleDifferences   "none"
+
+Diagnosis
+"Patellar Subluxation"
+"your kneecap moved temporarily from its normal position, but has returned."
+
+Treatment
+"mildly severe, you may only require an examination of your knee by a physician to 
+test stability. More likely, you will need to have an X-ray to examine for loose 
+bodies in the knee that may have dislodged with a violent action such as a 
+dislocating kneecap.
+
+While you may be able to continue participating in physical activity immediately, it 
+is recommended that you see a physician, do strength rehabilitation exercises, and 
+rest from the activity for one to two weeks to allow bones and ligaments to heal, if 
+they have been mildly injured."
+
+"Strength"
+
+*
+
+PatellarDislocation
+
+Symptoms
+onset                "acute"
+location             "anterior"
+mechanism            "deceleration" and "plant and twist"
+activeRangeOfMotion  "none"
+passiveRangeOfMotion "none"
+painMagnitude        "severe"
+swelling             "severe"
+visibleDifferences   "misplaced kneecap"
+
+
+Diagnosis
+"Patellar Dislocation"
+"your kneecap has dislodged from its normal position and is still outside its 
+groove."
+   
+Treatment
+"very severe, you will need to see a physician who can address this situation. DO NOT 
+MOVE THE KNEE, and do not attempt to push your kneecap back into the groove yourself. 
+Place ice carefully around the knee, but do not compress the knee.
+   
+Once your kneecap is back in place, you should immobilize the knee and use crutches 
+for four to six weeks. After, you will want to wear a knee brace to encourage 
+stability around the knee, and use strength rehabilitation exercises to strengthen 
+the area, so that the displacement does not happen again."
+
+"Strength"
+"Cardio"
+
+*
+
+PatellarFracture
+
+Symptoms
+onset                "acute"
+location             "anterior"
+mechanism            "force on kneecap" or "jump or fall"
+activeRangeOfMotion  "little"
+passiveRangeOfMotion "full"
+painMagnitude        "severe" or "moderate"
+swelling             "moderate"
+visibleDifferences   "none"
+
+Diagnosis
+"Stable Patellar Fracture"
+"your kneecap has fractured, but it has not dislodged and stayed in the same 
+position."   
+
+Treatment
+"severe, you will need to see a physician who will X-ray your knee, and will assist 
+you with splinting and immobilizing the knee. You should use the PRICE method for ice 
+and compression, mentioned below.
+   
+With proper immobilization and icing, your knee should heal within 2 to 3 months."
+
+*
+
+Bursitis
+   
+Symptoms
+onset                "chronic"
+location             "anterior"
+mechanism            "repetitive motion" or "not sure"
+activeRangeOfMotion  "full"
+painMagnitude        "moderate" or "mild"
+swelling             "moderate"
+
+Diagnosis
+"Bursitis"
+"the bursae, which are fluid-filled sacs that separate parts of your knee from 
+rubbing and locking, have become inflammed."   
+
+Treatment
+"moderately severe, you should stop the activity until your knee has stopped swelling 
+and you can extend and bend your knee without any pain. You should use the PRICE 
+method for ice and compression, mentioned below.
+
+If swelling does not subsist after two to three days, you should see a physician who 
+will more accurately diagnose the injury. You can also take anti-inflammatories that 
+can lessen the pain, such as Ibuprofen."
+   
+"PRICE"
+
+*
+
+Tendonitis
+
+Symptoms
+onset                "chronic"
+location             "anterior"
+mechanism            "constantly on knees" or "not sure"
+activeRangeOfMotion  "full"
+painMagnitude        "moderate"
+swelling             "mild"
+tenderness           "yes"
+
+Diagnosis
+"Tendonitis, or Jumper's Knee"
+"the tendons around your kneecap have become inflammed from overuse."   
+
+Treatment
+"mildly to moderately severe, you should stop the activity until your knee is not 
+tender and no swelling is prevalent. You should use the PRICE method for ice and 
+compression, mentioned below. However, you should not have to see your doctor unless 
+the problem occurs again. With proper icing, you should be able to recover within one 
+to two weeks. In the meantime, you can continue to participate in less strenuous 
+activities while taking anti-inflammatories such as Ibuprofen."
+
+"PRICE"
+   
+*
+
+Meniscus
+
+Symptoms
+onset                "chronic"
+location             "medial" or "lateral"
+mechanism            "repetitive twisting" or "not sure"
+activeRangeOfMotion  "little" or "none"
+painMagnitude        "moderate"
+swelling             "moderate"
+instability          "yes"
+heard                "pop"
+visibleDifferences   "muscle atrophy"
+
+Diagnosis
+"meniscus tear"
+"cartilage that facilitates movement in your knee has torn."
+
+Treatment
+"moderately severe, you should compress and ice the area immediately and see a 
+physician. If you cannot move your knee at all, DO NOT move the knee, and have 
+somebody help you to the physician, since you will need to be under anasthesia before 
+a knee should be unlocked.
+
+If the knee is not locked, however, it can be treated similarly to a Grade 1 or 2 
+ligament sprain. This diagnosis means that you should use the PRICE icing method and 
+use strength rehabilitation exercises to strengthen knee muscles to prevent further 
+tears from twisting."
+
+"PRICE"
+"Strength"
+
+*
+
+Bruises
+
+Symptoms
+onset                "acute"
+location             "anterior"
+mechanism            "force on kneecap"
+activeRangeOfMotion  "little" or "none"
+passiveRangeOfMotion "little"
+painMagnitude        "severe"
+swelling             "moderate"
+tenderness           "yes"
+visibleDifferences   "muscle bruises"
+
+Diagnosis
+"joint contusions"
+"you have experience a direct force on your bones and/or muscles that have created 
+tenderness and bruising, and can cause pain when flexing and extending your knee."
+
+Treatment
+"mild, you should use the PRICE method for icing and compressing the area until the 
+pain subsides, and continue icing periodically for the next three days if swelling 
+continues. Once the swelling subsides, the athlete can return to their activity, but 
+should wear padding around the bruised area and use PRICE on the area after each 
+session.
+
+You should heal within a few days, and should not have to see a physician. However, 
+if the swelling does not subside after a week, then it could actually be bursitis or 
+synovitis, which need medical attention."
+
+"PRICE"
+
+*
+
+Chondromalacia
+
+Symptoms
+onset                "chronic"
+location             "anterior"
+mechanism            "repetitive motion" or "not sure"
+activeRangeOfMotion  "full" or "little"
+passiveRangeOfMotion "full"
+painMagnitude        "moderate" or "severe"
+longTermPain         "dull"
+swelling             "moderate"
+
+Diagnosis
+"Chondromalacia Patella"
+"the cartilage below your kneecap has softened, causing your kneecap to grind against 
+other bones."
+
+Treatment
+"severe, you should see a physician about this condition. Your cartilage is failing, 
+causing disruption in the movement of your knee, and will continue to hurt when 
+walking up stairs, jumping, or participating in a sport that involves repetitive knee 
+movements.
+
+You will need to get an X-ray, and surgery will be needed to replace or reconstruct 
+cartilage."
+
+*
+
+end

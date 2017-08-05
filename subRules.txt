@@ -1,0 +1,188 @@
+location
+r: "location"
+q: "Where do you feel the injury?"
+LHS:
+RHS:
+"Outer (lateral) side of the knee"    "lateral"
+"Inner (medial) side of the knee"     "medial"
+"On, below or under the kneecap"      "anterior"
+"The back side of the knee"           "posterior"
+
+*
+
+onset
+r: "onset"
+q: "Did the injury come suddenly, or has it been recurring over a long period of time?"
+LHS:
+RHS:
+"It came suddenly."                              "acute"
+"It has recurred over a long period of time."    "chronic"
+  
+*
+
+acuteMechanism
+r: "mechanism"
+q: "How did you injure yourself?"
+LHS:
+(onset acute)
+RHS:
+"I planted my foot in the ground then twisted the rest of my body, and my knee started hurting."   "plant and twist"
+"My knee was hit directly on the lateral (outer) side while my leg was extended."                  "valgus force"
+"My knee was hit directly on the medial (inner) side while my leg was extended."                   "varus force"
+"I was running and slowed down too quickly, putting pressure and stress on my knee."               "deceleration"
+"I was sitting on my heels with my knees flexed, but sat down too quickly, 
+   overflexing my knee."                                                                           "hyperflexion"
+"My knee was hit directly on the kneecap (patella)."                                               "force on kneecap"
+"I fell or landed on my knee, or landed from a jump with my legs extended."                        "jump or fall"
+
+*
+
+passiveMechanism
+r: "mechanism"
+q: "How did the injury develop? If you don't know, choose the statement that applies closest to your situation, or choose \"not sure\"."
+LHS:
+(onset chronic)
+RHS:
+"I do exercise that involves repetitive knee motion, such as bicycling or running."                 "repetitive motion"
+"I work at a job or play a sport that involves being on knees on hard surfaces, such 
+  as a cleaner or volleyball player."                                                               "constantly on knees"
+"I play a sport that involves lots of twisting, like soccer, football, or basketball."              "repetitive twisting"
+"I am not sure, it has been a recurring injury but I have not paid attention to how I got it."      "not sure"                             
+
+
+*
+
+activeRange
+r: "activeRangeOfMotion"
+q: "Do you have a full range of motion in your knee? In other words, can you completely extend and bend your knee without pain?"
+LHS:
+(need-activeRangeOfMotion ?)
+RHS:
+"Yes! I can bend and extend my knee without hurting myself. My injury does not affect that."     "full"
+"A little. I can move my knee, but it hurts if I try to completely extend or bend it."           "little"
+"No. I can't bend or extend my knee at all, otherwise it hurts a lot."                           "none"
+
+*
+
+passiveRange
+r: "passiveRangeOfMotion"
+q: "Can somebody else extend and bend your leg without you feeling any pain?"
+LHS:
+(need-passiveRangeOfMotion ?)
+RHS:
+"Yes! Somebody else can move my leg without feeling any pain in my knee."     "full"
+"A little. My leg can be extended and bent, but there is some pain."          "little"
+"No. My knee cannot bend or extend at all, otherwise it hurts a lot."         "none"
+
+*
+magnitude
+r: "painMagnitude"
+q: "How much pain did the injury cause when you first felt it?"
+LHS:
+(need-painMagnitude ?)
+RHS:
+"Not much at all; there was little to no pain."                                              "mild"
+"I felt some moderate pain. I had to stop the activity I was doing, but I saw the 
+   trainer in my own power."                                                                "moderate"
+"A lot. The pain was very severe. When I had the injury, I felt a searing pain and I 
+   needed trainer attention."                                                                 "severe"
+  
+*
+
+swelling
+r: "swelling"
+q: "Is your knee experiencing any swelling?"
+LHS:
+(need-swelling ?)
+RHS:
+"No, not at all."                                                                       "none"
+"Only a small amount."                                                                  "mild"
+"There's a decent amount of swelling, but the area is not completely inflammed."        "moderate"
+"The swelling is significant, and the area is almost or completely swollen. If I try 
+   to move my knee or touch the area, I feel some tenderness and pain."                 "severe"
+
+*
+
+tenderness
+r: "tenderness"
+q: "Do you feel any tenderness in the injured area? In other words, is there pain when you touch the area?"
+LHS:
+(need-tenderness ?)
+RHS:
+"Yes, when I touch the area, I feel some pain."    "yes"
+"No, I don't feel anything."                       "no assertion"
+  
+*
+
+instability
+r: "instability"
+q: "When you put pressure on your knee (standing up, for example), do you feel instability?"
+LHS:
+(need-instability ?)
+RHS:
+"Yes, my leg wobbles when I try to stand."                   "yes"
+"No, I can stand perfectly fine without any instability."    "no assertion"
+
+*
+
+longTermPain 
+r: "longTermPain"
+q: "Have you felt any pain in the long-term?"
+LHS:
+(need-longTermPain ?)
+RHS:
+"No. I have been completely or almost completely pain-free."                            "no assertion"
+"I have felt a dull pain."                                                              "dull"
+"The pain is moderate and has stopped me from participating in strenous activities."    "moderate"
+"Very severe; my knee has been hurting badly since I injured my knee."                  "severe"
+
+*
+
+kneeBend
+r: "kneeBend"
+q: "Can you bend your knee horizontally towards the center or outside your body?"
+LHS:
+(need-kneeBend ?)
+RHS:
+"No, my knee only moves in one plane of direction."                   "no assertion"
+"Yes, my knee can bend towards the center of my body (medially)."     "medial"
+"Yes, my knee can bend outside my body (laterally)."                  "lateral"
+
+*
+
+observation
+r: "visibleDifferences"
+q: "Besides swelling, do you see any visible differences in your knee cap?"
+LHS:
+(need-visibleDifferences ?)
+RHS:
+"No, my knee looks normal."                                   "none"
+"Yes. My knee cap looks displaced."                           "misplaced kneecap"
+"Yes. My injured knee looks less muscular than the other."    "muscle atrophy"
+"Yes. I see brown or black spots on my muscles."              "muscle bruises"
+
+*
+
+walk
+r: "walk"
+q: "Can you walk without assistance, such as crutches or help from another person, and without a limp?"
+LHS:
+(need-walk ?)
+RHS:
+"No. If I try to walk, my knee buckles."     "no assertion"
+"Yes. I can walk perfectly fine"             "yes"
+ 
+*
+
+heardPop
+r: "heard"
+q: "Did you hear a pop when you experienced your injury?"
+LHS:
+(need-heard ?)
+RHS:
+"No."                                         "no assertion"
+"Yes. I heard a pop when I hurt my knee."     "pop"
+
+*
+
+end
